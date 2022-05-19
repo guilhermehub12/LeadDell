@@ -1,0 +1,41 @@
+  P {
+    color: blue;
+    text-align: center;
+    text-transform: capitalize;
+    background-color: #FF7F50;
+  }
+
+  header {
+    width: 100%;
+    height: 100px;
+    color: #DAA520;
+    background-color: #B0C4DE;
+  }
+
+  nav {
+    width: 100%;
+    height: 100px;
+    color: #DB7093;
+    background-color: #FFA07A;
+  }
+
+  aside{
+    width: 100%;
+    height: 100px;
+    color: white;
+    background-color: #191970;
+  }
+
+  section{
+    width: 100%;
+    height: 100px;
+    color: #CD853F;
+    background-color: #48D1CC;
+  }
+
+  footer{
+    width: 100%;
+    height: 100px;
+    color: #F5DEB3;
+    background-color: #228B22;
+  }
